@@ -68,12 +68,6 @@ This capstone project aims to build an AI-powered smart traffic control system. 
 
 ---
 
-## 📸 Demo
-
-*Add video or screenshots here*
-
----
-
 ## 👤 Author
 
 **Syed Ali**  
